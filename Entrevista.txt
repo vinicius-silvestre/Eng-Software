@@ -1,0 +1,112 @@
+NOME : ANTENOR JOSÉ SILVESTRE
+
+EMPRESA: APANT TUR SERVICES AGENCIA DE TURISMO E VIAGENS LTDA
+
+INDÚSTRIA:  TURISMO
+
+OCUPAÇÃO: TRAVESSA MARIA NAZARÉ, 54.
+
+1.Quais são as suas responsabilidades?
+R: Dono da empresa em questão.
+
+2.Quais são os produtor de trabalho?
+R: Aluguel de vans para viagens, locação, eventos e excursões.
+
+3.Para quem você gera esses produtos?
+R: Guias turísticos,  empresas que necessitarem de locação, empresários  e fretamento.
+
+4.Como é medido o seu sucesso?
+R: Tendo um considerável  network para contato e uma boa ferramenta de trabalho.
+
+5.Quais são os problemas que interferem para o sucesso de seu trabalho?
+R: Um número pequeno de pessoas trabalhando para o sucesso da empresa, lentidão para gerir as informações necessárias para um bom atendimento entre a empresa e seus cliente.
+
+6.O que, se existe, facilita ou dificulta o seu trabalho?
+R: O que dificulta é a lentidão de contato entre cliente-empresa.,
+
+7.Para quais problemas faltam boas soluções ”(tipo de aplicação)”?
+R: - 
+
+8.Quem são os usuários?
+R:Como a empresa é estruturada em uma base familiar, meu filho prestaria atendimento me auxiliando e dando atenção ao programa em questão.
+
+9.Qual é a sua formação?
+R: Ensino Médio Incompleto
+
+10.Qual é a sua experiência em computação?
+R: Baixa
+
+11.Os usuários são experientes nesse tipo de aplicação?
+R: Tem conhecimentos medianos
+
+12.Quais são os planos para a futura plataforma?
+R:Velocidade de Atendimento, dados necessários para o cliente ao entrar na plataforma e colher as informações de nível inicial do cliente interessado
+
+13.Outras aplicações usadas são relevantes para essa aplicação? Se sim, fale um pouco sobre elas.
+R: Sistema de calendário para visualização de datas disponíveis para locação, se caso tiver um serviço agendado para o dia x o cliente poderá visualizar no próprio site, caso não tenha o mesmo poderá entrar em contato para agendar a data disponível.
+
+14.Quais são as suas expectativas para a usabilidade do produto?
+R:Aumentar a rapidez de contato e fechamento de viagens.
+
+15.Quais são as suas expectativas para o tempo de treinamento?
+R:Algumas semanas.
+
+16.Que tipo de auxílio ao usuário você precisa (p.ex., cópia impressa ou documentos on-line). 
+R: Documentos on-line seria a prioridade.
+
+17.Quais outros problemas, caso exista, você está enfrentando?
+R: Gostaria de ter um banco de dados para histórico de serviços/valores já efetuados pela empresa para ter como base em suas economias.
+
+PULAR PARTE V – GRUPO
+PULAR PARTE VI – GRUPO
+
+18.Quem na sua organização precisa dessa aplicação?
+R:O dono da empresa para gerenciar o serviço e o funcionário responsável por aquela função.
+
+19.Quantos usuários desse tipo usariam a aplicação?
+R: Como a empresa é de pequeno porte seriam necessários apenas duas pessoas para administrar a plataforma.
+
+20.O que você considera que seja uma solução bem sucedida?
+R: Rápido, funcional e simples manuseio.
+
+21.Quais são suas expectativas sobre a segurança?
+R: Que as informações pessoais cliente e da empresa não caia em mãos erradas e desnecessárias.
+
+22.Quais são suas expectativas sobre o desempenho?
+R:Obter as informações necessárias para o serviço.
+
+23.Você irá dar suporte ao produto ou serão outras pessoas que farão isso?
+R:Outras pessoas.
+
+24.Você tem necessidades (needs) especiais de suporte?
+R: Não.
+
+25.O que você pensa sobre a manutenção e serviços de rede?
+R: Manutenção periódica se necessário.
+
+26.Quais são os requisitos de segurança?
+R:- Página de administrador com todas as informações de viagens e pacotes protegidos por login de super usuário.
+
+27.Quais são os requisitos de instalação e configuração?
+R: Instalação e configiguração como aplicação web + sql.
+
+28.Existem requisitos especiais de licenciamento?
+R: Não.
+
+29.Como o software será distribuído?
+R:O software será distribuído via web.
+
+30.Existem requisitos de etiquetagem ou de empacotamento?
+R: Não.
+
+31.Existe algum requisito legal, de regulação, ambiental ou de padronização que deva ser atendido?
+R: Padronização de cores : branco, cinza, vermelho e preto e azul. E órgãos de regulamentação de transportes: ARTITESP, CADASTUR, DTP.
+
+32.Existe alguma outra questão que eu deveria ter feito?
+R: Não.
+
+33.Se depois, eu tiver alguma dúvida, posso ligar para você? Você concorda em participar de uma revisão de requisitos?
+R: Sim telefone: (11)2906-1088 ou celular (11)940214588, sim.
+
+
+
